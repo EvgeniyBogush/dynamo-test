@@ -1,0 +1,321 @@
+{
+  "Uuid": "937ae419-0b47-4ee0-943c-42a883179cf3",
+  "IsCustomNode": false,
+  "Description": null,
+  "Name": "3.1.6 test",
+  "ElementResolver": {
+    "ResolutionMap": {}
+  },
+  "Inputs": [],
+  "Outputs": [],
+  "Nodes": [
+    {
+      "ConcreteType": "Dynamo.Nodes.DSModelElementsSelection, DSRevitNodesUI",
+      "NodeType": "ExtensionNode",
+      "InstanceId": [
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-00020b94",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-00020ba4",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-00020bae",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-00020bb0",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-00020bc8",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-0002106c",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-00021074",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-00021076",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-0002108a",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210a0",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210a6",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210a8",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210ae",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210da",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210de",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210e0",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210ea",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210ee",
+        "0695860b-937b-4a3e-9bd4-b0920ae939f7-000210f0",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054750",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054751",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054752",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054753",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054754",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054755",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054756",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054757",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054758",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054759",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005475a",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005475b",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005475c",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005475d",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005475e",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005475f",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054760",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054761",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054762",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054763",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054764",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054765",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054766",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054767",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054768",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-00054769",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005476a",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005477b",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005477c",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005477d",
+        "2f875ff7-5478-410d-a988-a6513d6bc31c-0005477e",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548f5",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548f6",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548f7",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548f8",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548f9",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548fa",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548fb",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548fc",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548fd",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548fe",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-000548ff",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054900",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054901",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054902",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054903",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054904",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054905",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054906",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054907",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054908",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-00054909",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-0005490a",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-0005490b",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-0005490c",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-0005490d",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-0005490e",
+        "3dff12fc-08d5-4639-9b63-fb8423d6eab2-0005490f"
+      ],
+      "Id": "bd8adb4036f04a62a52a4587587af765",
+      "Inputs": [],
+      "Outputs": [
+        {
+          "Id": "d6dc5d4e64364a87bd27cb6ce002d44e",
+          "Name": "Elements",
+          "Description": "Выбранные элементы.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.CodeBlockNodeModel, DynamoCore",
+      "NodeType": "CodeBlockNode",
+      "Code": "a.Id;",
+      "Id": "660cb1ab87e74879944b09d565a16794",
+      "Inputs": [
+        {
+          "Id": "4f509d5061814807a6d4d8faca9e3141",
+          "Name": "a",
+          "Description": "a",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "a5bc7daa0dfd4c5e9d3b088a235f8e68",
+          "Name": "",
+          "Description": "Значение выражения в строке 1",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Обеспечивает возможность непосредственного авторства кода DesignScript"
+    },
+    {
+      "ConcreteType": "Dynamo.Graph.Nodes.ZeroTouch.DSFunction, DynamoCore",
+      "NodeType": "FunctionNode",
+      "FunctionSignature": "DSCore.Math.Sum@double[]",
+      "Id": "a08e7a5f4a124461bff4cf303833237d",
+      "Inputs": [
+        {
+          "Id": "24b79d54ae894b59b402b1ab4b002916",
+          "Name": "values",
+          "Description": "Числа для сложения\n\ndouble[]",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "a477fee385b5477392995e3e930121ee",
+          "Name": "sum",
+          "Description": "Сумма значений",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Auto",
+      "Description": "Найти сумму последовательности чисел\n\nMath.Sum (values: double[]): double"
+    },
+    {
+      "ConcreteType": "CoreNodeModels.Watch, CoreNodeModels",
+      "NodeType": "ExtensionNode",
+      "Id": "b2e07023f2934ed6b43395da9a6195e0",
+      "Inputs": [
+        {
+          "Id": "fc568d85536d45d283d1a773e4838f25",
+          "Name": "",
+          "Description": "Узел для оценки.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Outputs": [
+        {
+          "Id": "d6315b2d92d64756801b987ad82e5eb6",
+          "Name": "",
+          "Description": "Просмотр содержимого.",
+          "UsingDefaultValue": false,
+          "Level": 2,
+          "UseLevels": false,
+          "KeepListStructure": false
+        }
+      ],
+      "Replication": "Disabled",
+      "Description": "Визуализация входного элемента узла."
+    }
+  ],
+  "Connectors": [
+    {
+      "Start": "d6dc5d4e64364a87bd27cb6ce002d44e",
+      "End": "4f509d5061814807a6d4d8faca9e3141",
+      "Id": "45efb6c2e8da4655948f7872f5c3bfd5"
+    },
+    {
+      "Start": "a5bc7daa0dfd4c5e9d3b088a235f8e68",
+      "End": "24b79d54ae894b59b402b1ab4b002916",
+      "Id": "59212e8806f64f22833b433489e06ac6"
+    },
+    {
+      "Start": "a477fee385b5477392995e3e930121ee",
+      "End": "fc568d85536d45d283d1a773e4838f25",
+      "Id": "0e3bb24681fc47c29cc82fbf750d24f8"
+    }
+  ],
+  "Dependencies": [],
+  "NodeLibraryDependencies": [],
+  "Bindings": [],
+  "View": {
+    "Dynamo": {
+      "ScaleFactor": 1.0,
+      "HasRunWithoutCrash": true,
+      "IsVisibleInDynamoLibrary": true,
+      "Version": "2.6.1.8786",
+      "RunType": "Automatic",
+      "RunPeriod": "1000"
+    },
+    "Camera": {
+      "Name": "Фоновый просмотр",
+      "EyeX": -17.0,
+      "EyeY": 24.0,
+      "EyeZ": 50.0,
+      "LookX": 12.0,
+      "LookY": -13.0,
+      "LookZ": -58.0,
+      "UpX": 0.0,
+      "UpY": 1.0,
+      "UpZ": 0.0
+    },
+    "NodeViews": [
+      {
+        "ShowGeometry": true,
+        "Name": "Select Model Elements",
+        "Id": "bd8adb4036f04a62a52a4587587af765",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": -87.807542537536278,
+        "Y": 21.3196592773196
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Code Block",
+        "Id": "660cb1ab87e74879944b09d565a16794",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 308.77506531724123,
+        "Y": 28.167132891835479
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Math.Sum",
+        "Id": "a08e7a5f4a124461bff4cf303833237d",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 483.35791195614,
+        "Y": 38.3675483718726
+      },
+      {
+        "ShowGeometry": true,
+        "Name": "Watch",
+        "Id": "b2e07023f2934ed6b43395da9a6195e0",
+        "IsSetAsInput": false,
+        "IsSetAsOutput": false,
+        "Excluded": false,
+        "X": 776.1529548928338,
+        "Y": 54.027282445238143
+      }
+    ],
+    "Annotations": [
+      {
+        "Id": "b35764329c6043f5bc18f3bfd77caf94",
+        "Title": "С помощью нода выбираем все элементы оз. ,для этого выделяем их и изолируем для упрощения работы ",
+        "Nodes": [
+          "bd8adb4036f04a62a52a4587587af765"
+        ],
+        "Left": -97.807542537536278,
+        "Top": -290.6803407226804,
+        "Width": 289.0,
+        "Height": 513.0,
+        "FontSize": 36.0,
+        "InitialTop": 21.3196592773196,
+        "InitialHeight": 231.0,
+        "TextblockHeight": 302.0,
+        "Background": "#FFC1D676"
+      },
+      {
+        "Id": "1191a61f3a2e46a887cae8bd1227f523",
+        "Title": "Создаем переменную с их ID и суммируем",
+        "Nodes": [
+          "660cb1ab87e74879944b09d565a16794",
+          "a08e7a5f4a124461bff4cf303833237d"
+        ],
+        "Left": 298.77506531724123,
+        "Top": -67.832867108164521,
+        "Width": 378.58284663889879,
+        "Height": 199.20041548003712,
+        "FontSize": 36.0,
+        "InitialTop": 28.167132891835479,
+        "InitialHeight": 123.0,
+        "TextblockHeight": 86.0,
+        "Background": "#FFC1D676"
+      }
+    ],
+    "X": 148.43539414014342,
+    "Y": 246.32578283973973,
+    "Zoom": 0.6313172430975722
+  }
+}
